@@ -43,7 +43,7 @@ html {
   }
   
   #img-caption {
-    background: grey;
+    background: rgb(90, 88, 88);
     max-width: 80%;
     text-align: center;
     margin: 10px auto;
